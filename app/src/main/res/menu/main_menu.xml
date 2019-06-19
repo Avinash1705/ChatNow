@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/main_Logout_btn"
+        android:title="Logout"/>
+
+<item android:id="@+id/main_AllUser_btn"
+    android:title="All User"/>
+    <item android:id="@+id/main_Setting_btn"
+        android:title="Setting"/>
+</menu>

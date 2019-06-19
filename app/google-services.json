@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "509622637789",
+    "firebase_url": "https://chatnow-6e401.firebaseio.com",
+    "project_id": "chatnow-6e401",
+    "storage_bucket": "chatnow-6e401.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509622637789:android:ea9eb9e7ab7d7e79",
+        "android_client_info": {
+          "package_name": "com.example.chatnow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509622637789-niu8vkq5126k7ib95ol3micusaa19h2a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatnow",
+            "certificate_hash": "fc617dc1b22130bbd4bcbb1043492700cc1f002f"
+          }
+        },
+        {
+          "client_id": "509622637789-bt0neeukluvd8vheo4c0sqesrc5hpcj7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4KiZDivtYGPLOseIjiIcnavUrP09ZRvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509622637789-bt0neeukluvd8vheo4c0sqesrc5hpcj7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
